@@ -1,4 +1,4 @@
-# La congrega degli informatici
+# congrega-informatici
 La congrega degli informatici nasce nel marzo del 2018 con l’obbiettivo di unire tutti  gli informatici sotto lo stesso tetto, mantenendo un ambiente maturo e professionale.
 
 Principalmente trattiamo la programmazione, sicurezza informatica, sviluppo web, grafica, web design, sistemistica, software, hardware e infine l’etica e la morale
